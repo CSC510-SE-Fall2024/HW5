@@ -9,3 +9,4 @@ We welcome contributions! Please follow these guidelines:
 5. Push to the branch: `git push origin my-feature`
 6. Open a pull request.
 9. Create a new branch named 'temp'
+10. Deleting all branches
