@@ -11,3 +11,5 @@
 ## Description
 
 This repository contains the code and documentation for Homework 5 of the CSC 510 course.
+
+![Screen Snap of index.html](screenshot/index_screensnap.png)
